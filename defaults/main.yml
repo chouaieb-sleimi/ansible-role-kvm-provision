@@ -18,5 +18,5 @@ vm_net: default
 # guest variables
 root_pass: root
 domain: example.com
-vm_list:
-  - { vm_name: vm-rhel8.7, hostname: host_rhel8 }
+vm_name: vm-rhel8.7
+hostname: host_rhel8
